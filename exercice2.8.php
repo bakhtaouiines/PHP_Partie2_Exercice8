@@ -13,11 +13,11 @@
         $isOk = true;
         if ($isOk)
         {
-            echo "C'est ok !!";
+            echo 'C\'est ok !!';
         }
         else
         {
-            echo "C'est pas bon !!!";
+            echo 'C\'est pas bon !!!';
         }
         ?>
     </p>
